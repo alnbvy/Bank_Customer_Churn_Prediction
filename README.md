@@ -11,6 +11,7 @@ Identify and visualize which factors contribute to customer churn.
 
 ## General Information
 - The goal of the project is to predict customer churn
+- Perform exploratory data analysis to find the reasons contributing to churn
 - The models are : 1) LR 2) RF 3) SVM 4) GB
 - The project contains 5 steps: 1) introduction 2) Data set review & preparation 3) exploratory data analysis 4) model development and 4) Refinement
 
